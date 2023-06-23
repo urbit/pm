@@ -53,3 +53,7 @@ TODO
   - [ ] Run `|suspend %pals`.
   - [ ] Run `|revive %pals`.
   - [ ] Run `:pals +dbug` and check that the pal ship is still in the state.
+- [ ]  Check Azimuth functionality.
+  - [ ]  Run `+azimuth-block` and check that the result is close to up-to-date.
+  - [ ]  Run `-azimuth-load` and check to make sure the new snapshot is downloaded.
+  - [ ]  Run `+azimuth-block` again.  If the result is different from the previous run, it should be earlier in time, but less than a day away from the latest Ethereum block height.
