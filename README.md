@@ -10,7 +10,7 @@ All calls are held in the Urbit Foundation's public [gather.town instance](https
 
 Daily core meetings are open to the broader developer community. They're informal and range in discussion, but the general focus is to triage new pull requests against [urbit](https://github.com/urbit/urbit) and [vere](https://github.com/urbit/vere), progressing them towards merge and eventual release.
 
-Pull requests and releases are tracked in [this Google Doc](https://docs.google.com/document/d/1EwCUY8OVAC-2ZJipOHq1yEGlnlStYeSKdm2MNCfnIdc/edit).
+Pull requests and releases are tracked in [this project](https://github.com/orgs/urbit/projects/29).
 
 ## Core Architecture Meetings
 
